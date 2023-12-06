@@ -2,14 +2,14 @@
 
 ## Je suis Fabien Baraille,
 
-En pleine reconversion professionnelle, je suis actuellement en formation de Développeur Web et Web Mobile chez O'Clock !
+En pleine reconversion professionnelle, ma formation de développeur web et web mobile à l'école O'clock est maintenant terminée, place au développement !
 
 ## Skills
 
-Plutôt orienté Front-end, je connais le HTML, le CSS et le JavaScript. Je vais bientôt débuter une spécialisation en ReactJS.
+Spécialisé Front-end, je connais le HTML, le CSS et le JavaScript, je développe sur la librairie React notamment pour mon plus gros projet DMFC.
 Je connais également bootstrap et WordPress.
 
-J'ai également des connaissances en PHP et laravel pour le côté backend.
+J'ai également des connaissances en PHP et les frameworks laravel et Symfony pour le côté backend.
 
 ## Projets
 
